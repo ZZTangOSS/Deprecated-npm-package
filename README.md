@@ -78,7 +78,7 @@ Contains the pipeline for collecting and clustering post-deprecation user discus
 
 ---
 
-## 🔒 Ethical and Confidentiality Limitations
+## 🔒 Ethical and Confidentiality
 
 To adhere strictly to research ethics and protect participant privacy, this replication package does not contain the following raw data:
 
